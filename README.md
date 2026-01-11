@@ -3,6 +3,7 @@
 ## Overview
 This project implements an AI-based traffic signal controller using Reinforcement Learning (Deep Q-Network) to optimize traffic flow at a 4-way intersection.  
 The system learns to minimize vehicle waiting time under varying traffic densities in a simulated environment.
+This project was made during Internship under console.success
 
 ## Simulation Environment
 A custom Python-based traffic simulator models a 4-way intersection (North, South, East, West) with stochastic vehicle arrivals.  
